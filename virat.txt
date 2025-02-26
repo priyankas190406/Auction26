@@ -1,1 +1,2 @@
 starting Price = 10 L
+cabin 2 price = 80 L
